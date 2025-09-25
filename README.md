@@ -1,6 +1,6 @@
                                                                                     Visualizations of the Data in Python
 
-                                           <img width="851" height="692" alt="image" src="https://github.com/user-attachments/assets/3427d93f-da17-48c1-b5e5-5ec55e59ad38" />
+                                           <img width="1478" height="434" alt="image" src="https://github.com/user-attachments/assets/08201f86-7748-42b6-b6b4-45a1fd5c84a0" />
 
 
                                            <img width="835" height="621" alt="image" src="https://github.com/user-attachments/assets/48c9d2a9-9016-46e5-ba5a-dd21c112147b" />
